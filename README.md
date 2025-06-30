@@ -10,11 +10,13 @@ The primary goal of this project is to demonstrate how **cohort analysis** can b
 - Make data-driven decisions for **marketing** and **customer engagement strategies**
 
 Check the **Output** Below:
-![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Retention%20Analysis.png)
-![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Retention%20Analysis.png)
-![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Retention%20Analysis.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/d23de3fb5f16cdd6eaca28a850d1af50d9c26e79/Customer%20Retention%20Analysiis.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/d23de3fb5f16cdd6eaca28a850d1af50d9c26e79/Customer%20Retention%20Rate%20%25.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/d23de3fb5f16cdd6eaca28a850d1af50d9c26e79/Customer%20Life%20time%20Value.png)
 
----
+# Dataset Source 
+[Dataset Link](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/d23de3fb5f16cdd6eaca28a850d1af50d9c26e79/Super%20Store%20Sales.csv)
+
 
 ## 📊 Project Highlights
 
@@ -82,5 +84,7 @@ GROUP BY cohort_month;
 - **Language**: SQL
 - **Dataset**: Super Store (CSV)
 
-# Dataset Source 
-[Dataset Link](https://github.com/Mdkamrulislam54/Sk-Mart-Retail-Shop-Case-Study/blob/7d21b8058f2923df7c35c390fb2567804889e845/SK_MART%20DATASET%20.sql)
+
+
+
+

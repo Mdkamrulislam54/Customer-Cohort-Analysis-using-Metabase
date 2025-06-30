@@ -16,7 +16,9 @@ Check the **Output** Below:
 
 # Dataset Source 
 [Dataset Link](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/d23de3fb5f16cdd6eaca28a850d1af50d9c26e79/Super%20Store%20Sales.csv)
-
+# Code
+[Customer Retention Analysis](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/911e3dff6459b6a5b81cd4f1ddf58a590b66e30e/Monthly%20Customer%20Cohort%20Analysis.sql)
+[Customer Lifetime Value](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-Metabase/blob/911e3dff6459b6a5b81cd4f1ddf58a590b66e30e/Monthly%20Customer%20Lifetime%20Value.sql)
 
 ## 📊 Project Highlights
 
